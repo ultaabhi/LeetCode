@@ -12,6 +12,7 @@
 build/
 out/
 .idea/
+.iml
 
 # BlueJ files
 *.ctxt
